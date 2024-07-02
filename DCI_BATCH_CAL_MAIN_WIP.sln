@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCI_BATCH_CAL_MAIN_WIP", "DCI_BATCH_CAL_MAIN_WIP\DCI_BATCH_CAL_MAIN_WIP.csproj", "{851AD54A-8DA4-44E8-A196-40123BB0472D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{851AD54A-8DA4-44E8-A196-40123BB0472D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851AD54A-8DA4-44E8-A196-40123BB0472D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851AD54A-8DA4-44E8-A196-40123BB0472D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851AD54A-8DA4-44E8-A196-40123BB0472D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DD2C79C-9BED-467E-AB6D-FCF17DF037CE}
+	EndGlobalSection
+EndGlobal
